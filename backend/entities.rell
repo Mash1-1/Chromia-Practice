@@ -1,5 +1,0 @@
-entity task {
-    account: accounts.account;
-    mutable content: text;
-    created_at: timestamp;
-}
