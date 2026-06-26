@@ -1,0 +1,7 @@
+module;
+
+import lib.ft4.accounts;
+import lib.ft4.auth;
+import lib.ft4.core.accounts.strategies.open;
+import lib.ft4.external.accounts.strategies.*;
+import ext_accounts: lib.ft4.external.accounts;
