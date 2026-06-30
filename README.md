@@ -1,2 +1,2 @@
 # Chromia-Practice
-Practicing blockchain development using Chromia platform.
+Practicing blockchain development using Chromia platform
